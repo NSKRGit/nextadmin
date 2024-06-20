@@ -13,6 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
+Reference Video: https://www.youtube.com/watch?v=cBg6xA5C60s&t=3609s
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
